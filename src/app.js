@@ -5,6 +5,7 @@ import morgan from 'morgan';
 import cors from 'cors';
 import cookieParser from 'cookie-parser';
 import authRoutes from './routes/auth.route.js';
+import userRoutes from './routes/user.route.js';
 import securityMiddleware from './middleware/security.middleware.js';
 
 const app = express();
@@ -27,6 +28,7 @@ app.use(
 );
 
 app.use('/api/auth', authRoutes);
+app.use('/api/users', userRoutes);
 
 app.get('/', (req, res) => {
   logger.info('Hello from acquistions');
