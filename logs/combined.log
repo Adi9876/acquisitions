@@ -16,3 +16,61 @@
 {"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
 {"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
 {"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:39:44 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:40:14 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:40:45 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:41:15 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:41:45 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:42:16 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:42:46 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:43:16 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:43:47 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:44:17 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:44:47 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"ip":"::ffff:192.168.65.1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.45.0"}
+{"ip":"::ffff:192.168.65.1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.45.0"}
+{"ip":"::ffff:192.168.65.1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.45.0"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:45:18 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"ip":"::ffff:192.168.65.1","level":"warn","message":"Bot request blocked","path":"/","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"ip":"::ffff:192.168.65.1","level":"warn","message":"Bot request blocked","path":"/favicon.ico","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"ip":"::ffff:192.168.65.1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"ip":"::ffff:192.168.65.1","level":"warn","message":"Bot request blocked","path":"/favicon.ico","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:45:48 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:47:53 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquistions","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [03/Nov/2025:11:47:57 +0000] \"GET / HTTP/1.1\" 200 22 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [03/Nov/2025:11:47:57 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:48:23 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [03/Nov/2025:11:48:29 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"PostmanRuntime/7.45.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:48:53 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:49:23 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:49:53 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"ip":"::ffff:192.168.65.1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.45.0"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:50:23 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"ip":"::ffff:192.168.65.1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-up","service":"acquisitions-api","userAgent":"PostmanRuntime/7.45.0"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [03/Nov/2025:11:50:42 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"PostmanRuntime/7.45.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:50:54 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:51:54 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [03/Nov/2025:11:52:02 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.45.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:52:24 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:52:55 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"error","message":"Error creating the user: Error: Failed query: select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2\nparams: abc@abc.com,1","service":"acquisitions-api"}
+{"cause":{"name":"NeonDbError","sourceError":{"cause":{"address":"::1","code":"ECONNREFUSED","errno":-111,"port":5432,"syscall":"connect"}}},"level":"error","message":"Signup error Failed query: select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2\nparams: abc@abc.com,1","params":["abc@abc.com",1],"query":"select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2","service":"acquisitions-api","stack":"Error: Failed query: select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2\nparams: abc@abc.com,1\n    at NeonHttpPreparedQuery.queryWithCache (file:///app/node_modules/drizzle-orm/pg-core/session.js:41:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async NeonHttpPreparedQuery.execute (file:///app/node_modules/drizzle-orm/neon-http/session.js:45:20)\n    at async createUser (file:///app/src/services/auth.service.js:27:26)\n    at async signup (file:///app/src/controllers/auth.controller.js:21:18)"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [03/Nov/2025:11:53:49 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 910 \"-\" \"PostmanRuntime/7.45.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:53:55 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:54:25 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:54:55 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:55:25 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:55:56 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:56:26 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"error","message":"Error creating the user: Error: Failed query: select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2\nparams: abc@abc.com,1","service":"acquisitions-api"}
+{"cause":{"name":"NeonDbError","sourceError":{"cause":{"address":"::1","code":"ECONNREFUSED","errno":-111,"port":5432,"syscall":"connect"}}},"level":"error","message":"Signup error Failed query: select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2\nparams: abc@abc.com,1","params":["abc@abc.com",1],"query":"select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2","service":"acquisitions-api","stack":"Error: Failed query: select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2\nparams: abc@abc.com,1\n    at NeonHttpPreparedQuery.queryWithCache (file:///app/node_modules/drizzle-orm/pg-core/session.js:41:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async NeonHttpPreparedQuery.execute (file:///app/node_modules/drizzle-orm/neon-http/session.js:45:20)\n    at async createUser (file:///app/src/services/auth.service.js:27:26)\n    at async signup (file:///app/src/controllers/auth.controller.js:21:18)"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [03/Nov/2025:11:56:39 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 910 \"-\" \"PostmanRuntime/7.45.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:57:49 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:58:19 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:58:49 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [03/Nov/2025:11:59:15 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"PostmanRuntime/7.45.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Nov/2025:11:59:19 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User abc@abc.com created successfully","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: abc@abc.com","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:192.168.65.1 - - [03/Nov/2025:11:59:20 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 94 \"-\" \"PostmanRuntime/7.45.0\"","service":"acquisitions-api"}
