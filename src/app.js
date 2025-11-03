@@ -47,4 +47,8 @@ app.get('/api', (req, res) => {
   res.status(200).json({ message: 'Acquisition API is running !' });
 });
 
+app.use((req, res) => {
+  res.status(404).json({ error: 'Route not found' });
+});
+
 export default app;
